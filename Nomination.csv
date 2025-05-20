@@ -1,0 +1,577 @@
+Award_Name,Iteration_Number,Movie_Name,Movie_ReleaseDate,Granted
+Best Actor,1,The Broadway Melody,1929-01-01,0
+Best Actor,2,All Quiet on the Western Front,1930-01-01,0
+Best Actor,3,Cimarron,1931-01-01,0
+Best Actor,4,Grand Hotel,1932-01-01,0
+Best Actor,5,Cavalcade,1933-01-01,0
+Best Actor,6,It Happened One Night,1934-01-01,0
+Best Actor,7,The Tortoise and the Hare,1935-01-01,0
+Best Actor,8,King of Burlesque,1936-01-01,0
+Best Actor,9,The Life of Emile Zola,1937-01-01,0
+Best Actor,10,In Old Chicago,1938-01-01,0
+Best Actor,11,Pacific Liner,1939-01-01,0
+Best Actor,12,Rebecca,1940-01-01,0
+Best Actor,13,More About Nostradamus,1941-01-01,0
+Best Actor,14,Mrs. Miniver,1942-01-01,0
+Best Actor,15,Der Fuehrer's Face,1943-01-01,0
+Best Actor,16,To the People of the United States,1944-01-01,0
+Best Actor,17,The Lost Weekend,1945-01-01,0
+Best Actor,18,The Best Years of Our Lives,1946-01-01,0
+Best Actor,19,The Cat Concerto,1947-01-01,0
+Best Actor,20,"Goodbye, Miss Turlock",1948-01-01,0
+Best Actor,21,The Little Orphan,1949-01-01,0
+Best Actor,22,Aquatic House Party,1950-01-01,0
+Best Actor,23,An American in Paris,1951-01-01,0
+Best Actor,24,The Two Mouseketeers,1952-01-01,0
+Best Actor,25,Johann Mouse,1953-01-01,0
+Best Actor,26,From A to Z-Z-Z-Z,1954-01-01,0
+Best Actor,27,Marty,1955-01-01,0
+Best Actor,28,Around the World in 80 Days,1956-01-01,0
+Best Actor,29,The Power and the Prize,1957-01-01,0
+Best Actor,30,Gigi,1958-01-01,0
+Best Actor,31,Ben-Hur,1959-01-01,0
+Best Actor,32,The Apartment,1960-01-01,0
+Best Actor,33,West Side Story,1961-01-01,0
+Best Actor,34,Claudelle Inglish,1962-01-01,0
+Best Actor,35,Now Hear This,1963-01-01,0
+Best Actor,36,My Fair Lady,1964-01-01,0
+Best Actor,37,Nudnik #2,1965-01-01,0
+Best Actor,38,Blood on the Land,1966-01-01,0
+Best Actor,39,In the Heat of the Night,1967-01-01,0
+Best Actor,40,Oliver!,1968-01-01,0
+Best Actor,41,The Boys of Paul Street,1969-01-01,0
+Best Actor,42,Other Voices,1970-01-01,0
+Best Actor,43,Say Goodbye,1971-01-01,0
+Best Actor,44,Ra,1972-01-01,0
+Best Actor,45,Manson,1973-01-01,0
+Best Actor,46,Always a New Beginning,1974-01-01,0
+Best Actor,47,One Flew Over the Cuckoo's Nest,1975-01-01,0
+Best Actor,48,Letters from Marusia,1976-01-01,0
+Best Actor,49,Annie Hall,1977-01-01,0
+Best Actor,50,The Deer Hunter,1978-01-01,0
+Best Actor,51,Strange Fruit,1979-01-01,0
+Best Actor,52,Ordinary People,1980-01-01,0
+Best Actor,53,The Dollar Bottom,1981-01-01,0
+Best Actor,54,Gandhi,1982-01-01,0
+Best Actor,55,Terms of Endearment,1983-01-01,0
+Best Actor,56,Amadeus,1984-01-01,0
+Best Actor,57,Beyond the Walls,1985-01-01,0
+Best Actor,58,Unfinished Business,1986-01-01,0
+Best Actor,59,The Last Emperor,1987-01-01,0
+Best Actor,60,Radio Bikini,1988-01-01,0
+Best Actor,61,Driving Miss Daisy,1989-01-01,0
+Best Actor,62,Dances With Wolves,1990-01-01,0
+Best Actor,63,The Silence of the Lambs,1991-01-01,0
+Best Actor,64,The Ox,1992-01-01,0
+Best Actor,65,Schindler's List,1993-01-01,0
+Best Actor,66,Blood Ties: The Life and Work of Sally Mann,1994-01-01,0
+Best Actor,67,Braveheart,1995-01-01,0
+Best Actor,68,Little Surprises,1996-01-01,0
+Best Actor,69,A Chef in Love,1997-01-01,0
+Best Actor,70,Shakespeare in Love,1998-01-01,0
+Best Actor,71,American Beauty,1999-01-01,0
+Best Actor,72,Gladiator,2000-01-01,0
+Best Actor,73,Scottsboro: An American Tragedy,2001-01-01,0
+Best Actor,74,Strange Invaders,2002-01-01,0
+Best Actor,75,The Lord of the Rings: The Return of the King,2003-01-01,0
+Best Actor,76,Million Dollar Baby,2004-01-01,0
+Best Actor,77,Hardwood,2005-01-01,0
+Best Actor,78,The Departed,2006-01-01,0
+Best Actor,79,No Country for Old Men,2007-01-01,0
+Best Actor,80,La Corona,2008-01-01,0
+Best Actor,81,The Final Inch,2009-01-01,0
+Best Actor,82,Music by Prudence,2010-01-01,0
+Best Actor,83,The Artist,2011-01-01,0
+Best Actor,84,Saving Face,2012-01-01,0
+Best Actor,85,12 Years a Slave,2013-01-01,0
+Best Actor,86,Helium,2014-01-01,0
+Best Actor,87,Spotlight,2015-01-01,0
+Best Actor,88,Moonlight,2016-01-01,0
+Best Actor,89,Silent Nights,2017-01-01,0
+Best Actor,90,Green Book,2018-01-01,0
+Best Actor,91,Parasite,2019-01-01,0
+Best Actor,92,Nomadland,2020-01-01,0
+Best Actor,93,Judas and the Black Messiah,2021-01-01,0
+Best Actor,94,Everything Everywhere All at Once,2022-01-01,0
+Best Actor,95,Ivalu,2023-01-01,0
+Best Actor,96,Emilia Pérez,2024-01-01,0
+Best Actress,1,The Broadway Melody,1929-01-01,0
+Best Actress,2,All Quiet on the Western Front,1930-01-01,0
+Best Actress,3,Cimarron,1931-01-01,0
+Best Actress,4,Grand Hotel,1932-01-01,0
+Best Actress,5,Cavalcade,1933-01-01,0
+Best Actress,6,It Happened One Night,1934-01-01,0
+Best Actress,7,The Tortoise and the Hare,1935-01-01,0
+Best Actress,8,King of Burlesque,1936-01-01,0
+Best Actress,9,The Life of Emile Zola,1937-01-01,0
+Best Actress,10,In Old Chicago,1938-01-01,0
+Best Actress,11,Pacific Liner,1939-01-01,0
+Best Actress,12,Rebecca,1940-01-01,0
+Best Actress,13,More About Nostradamus,1941-01-01,0
+Best Actress,14,Mrs. Miniver,1942-01-01,0
+Best Actress,15,Der Fuehrer's Face,1943-01-01,0
+Best Actress,16,To the People of the United States,1944-01-01,0
+Best Actress,17,The Lost Weekend,1945-01-01,0
+Best Actress,18,The Best Years of Our Lives,1946-01-01,0
+Best Actress,19,The Cat Concerto,1947-01-01,0
+Best Actress,20,"Goodbye, Miss Turlock",1948-01-01,0
+Best Actress,21,The Little Orphan,1949-01-01,0
+Best Actress,22,Aquatic House Party,1950-01-01,0
+Best Actress,23,An American in Paris,1951-01-01,0
+Best Actress,24,The Two Mouseketeers,1952-01-01,0
+Best Actress,25,Johann Mouse,1953-01-01,0
+Best Actress,26,From A to Z-Z-Z-Z,1954-01-01,0
+Best Actress,27,Marty,1955-01-01,0
+Best Actress,28,Around the World in 80 Days,1956-01-01,0
+Best Actress,29,The Power and the Prize,1957-01-01,0
+Best Actress,30,Gigi,1958-01-01,0
+Best Actress,31,Ben-Hur,1959-01-01,0
+Best Actress,32,The Apartment,1960-01-01,0
+Best Actress,33,West Side Story,1961-01-01,0
+Best Actress,34,Claudelle Inglish,1962-01-01,0
+Best Actress,35,Now Hear This,1963-01-01,0
+Best Actress,36,My Fair Lady,1964-01-01,0
+Best Actress,37,Nudnik #2,1965-01-01,0
+Best Actress,38,Blood on the Land,1966-01-01,0
+Best Actress,39,In the Heat of the Night,1967-01-01,0
+Best Actress,40,Oliver!,1968-01-01,0
+Best Actress,41,The Boys of Paul Street,1969-01-01,0
+Best Actress,42,Other Voices,1970-01-01,0
+Best Actress,43,Say Goodbye,1971-01-01,0
+Best Actress,44,Ra,1972-01-01,0
+Best Actress,45,Manson,1973-01-01,0
+Best Actress,46,Always a New Beginning,1974-01-01,0
+Best Actress,47,One Flew Over the Cuckoo's Nest,1975-01-01,0
+Best Actress,48,Letters from Marusia,1976-01-01,0
+Best Actress,49,Annie Hall,1977-01-01,0
+Best Actress,50,The Deer Hunter,1978-01-01,0
+Best Actress,51,Strange Fruit,1979-01-01,0
+Best Actress,52,Ordinary People,1980-01-01,0
+Best Actress,53,The Dollar Bottom,1981-01-01,0
+Best Actress,54,Gandhi,1982-01-01,0
+Best Actress,55,Terms of Endearment,1983-01-01,0
+Best Actress,56,Amadeus,1984-01-01,0
+Best Actress,57,Beyond the Walls,1985-01-01,0
+Best Actress,58,Unfinished Business,1986-01-01,0
+Best Actress,59,The Last Emperor,1987-01-01,0
+Best Actress,60,Radio Bikini,1988-01-01,0
+Best Actress,61,Driving Miss Daisy,1989-01-01,0
+Best Actress,62,Dances With Wolves,1990-01-01,0
+Best Actress,63,The Silence of the Lambs,1991-01-01,0
+Best Actress,64,The Ox,1992-01-01,0
+Best Actress,65,Schindler's List,1993-01-01,0
+Best Actress,66,Blood Ties: The Life and Work of Sally Mann,1994-01-01,0
+Best Actress,67,Braveheart,1995-01-01,0
+Best Actress,68,Little Surprises,1996-01-01,0
+Best Actress,69,A Chef in Love,1997-01-01,0
+Best Actress,70,Shakespeare in Love,1998-01-01,0
+Best Actress,71,American Beauty,1999-01-01,0
+Best Actress,72,Gladiator,2000-01-01,0
+Best Actress,73,Scottsboro: An American Tragedy,2001-01-01,0
+Best Actress,74,Strange Invaders,2002-01-01,0
+Best Actress,75,The Lord of the Rings: The Return of the King,2003-01-01,0
+Best Actress,76,Million Dollar Baby,2004-01-01,0
+Best Actress,77,Hardwood,2005-01-01,0
+Best Actress,78,The Departed,2006-01-01,0
+Best Actress,79,No Country for Old Men,2007-01-01,0
+Best Actress,80,La Corona,2008-01-01,0
+Best Actress,81,The Final Inch,2009-01-01,0
+Best Actress,82,Music by Prudence,2010-01-01,0
+Best Actress,83,The Artist,2011-01-01,0
+Best Actress,84,Saving Face,2012-01-01,0
+Best Actress,85,12 Years a Slave,2013-01-01,0
+Best Actress,86,Helium,2014-01-01,0
+Best Actress,87,Spotlight,2015-01-01,0
+Best Actress,88,Moonlight,2016-01-01,0
+Best Actress,89,Silent Nights,2017-01-01,0
+Best Actress,90,Green Book,2018-01-01,0
+Best Actress,91,Parasite,2019-01-01,0
+Best Actress,92,Nomadland,2020-01-01,0
+Best Actress,93,Judas and the Black Messiah,2021-01-01,0
+Best Actress,94,Everything Everywhere All at Once,2022-01-01,0
+Best Actress,95,Ivalu,2023-01-01,0
+Best Actress,96,Emilia Pérez,2024-01-01,0
+Best Director,1,The Broadway Melody,1929-01-01,0
+Best Director,2,All Quiet on the Western Front,1930-01-01,0
+Best Director,3,Cimarron,1931-01-01,0
+Best Director,4,Grand Hotel,1932-01-01,0
+Best Director,5,Cavalcade,1933-01-01,0
+Best Director,6,It Happened One Night,1934-01-01,0
+Best Director,7,The Tortoise and the Hare,1935-01-01,0
+Best Director,8,King of Burlesque,1936-01-01,0
+Best Director,9,The Life of Emile Zola,1937-01-01,0
+Best Director,10,In Old Chicago,1938-01-01,0
+Best Director,11,Pacific Liner,1939-01-01,0
+Best Director,12,Rebecca,1940-01-01,0
+Best Director,13,More About Nostradamus,1941-01-01,0
+Best Director,14,Mrs. Miniver,1942-01-01,0
+Best Director,15,Der Fuehrer's Face,1943-01-01,0
+Best Director,16,To the People of the United States,1944-01-01,0
+Best Director,17,The Lost Weekend,1945-01-01,0
+Best Director,18,The Best Years of Our Lives,1946-01-01,0
+Best Director,19,The Cat Concerto,1947-01-01,0
+Best Director,20,"Goodbye, Miss Turlock",1948-01-01,0
+Best Director,21,The Little Orphan,1949-01-01,0
+Best Director,22,Aquatic House Party,1950-01-01,0
+Best Director,23,An American in Paris,1951-01-01,0
+Best Director,24,The Two Mouseketeers,1952-01-01,0
+Best Director,25,Johann Mouse,1953-01-01,0
+Best Director,26,From A to Z-Z-Z-Z,1954-01-01,0
+Best Director,27,Marty,1955-01-01,0
+Best Director,28,Around the World in 80 Days,1956-01-01,0
+Best Director,29,The Power and the Prize,1957-01-01,0
+Best Director,30,Gigi,1958-01-01,0
+Best Director,31,Ben-Hur,1959-01-01,0
+Best Director,32,The Apartment,1960-01-01,0
+Best Director,33,West Side Story,1961-01-01,0
+Best Director,34,Claudelle Inglish,1962-01-01,0
+Best Director,35,Now Hear This,1963-01-01,0
+Best Director,36,My Fair Lady,1964-01-01,0
+Best Director,37,Nudnik #2,1965-01-01,0
+Best Director,38,Blood on the Land,1966-01-01,0
+Best Director,39,In the Heat of the Night,1967-01-01,0
+Best Director,40,Oliver!,1968-01-01,0
+Best Director,41,The Boys of Paul Street,1969-01-01,0
+Best Director,42,Other Voices,1970-01-01,0
+Best Director,43,Say Goodbye,1971-01-01,0
+Best Director,44,Ra,1972-01-01,0
+Best Director,45,Manson,1973-01-01,0
+Best Director,46,Always a New Beginning,1974-01-01,0
+Best Director,47,One Flew Over the Cuckoo's Nest,1975-01-01,0
+Best Director,48,Letters from Marusia,1976-01-01,0
+Best Director,49,Annie Hall,1977-01-01,0
+Best Director,50,The Deer Hunter,1978-01-01,0
+Best Director,51,Strange Fruit,1979-01-01,0
+Best Director,52,Ordinary People,1980-01-01,0
+Best Director,53,The Dollar Bottom,1981-01-01,0
+Best Director,54,Gandhi,1982-01-01,0
+Best Director,55,Terms of Endearment,1983-01-01,0
+Best Director,56,Amadeus,1984-01-01,0
+Best Director,57,Beyond the Walls,1985-01-01,0
+Best Director,58,Unfinished Business,1986-01-01,0
+Best Director,59,The Last Emperor,1987-01-01,0
+Best Director,60,Radio Bikini,1988-01-01,0
+Best Director,61,Driving Miss Daisy,1989-01-01,0
+Best Director,62,Dances With Wolves,1990-01-01,0
+Best Director,63,The Silence of the Lambs,1991-01-01,0
+Best Director,64,The Ox,1992-01-01,0
+Best Director,65,Schindler's List,1993-01-01,0
+Best Director,66,Blood Ties: The Life and Work of Sally Mann,1994-01-01,0
+Best Director,67,Braveheart,1995-01-01,0
+Best Director,68,Little Surprises,1996-01-01,0
+Best Director,69,A Chef in Love,1997-01-01,0
+Best Director,70,Shakespeare in Love,1998-01-01,0
+Best Director,71,American Beauty,1999-01-01,0
+Best Director,72,Gladiator,2000-01-01,0
+Best Director,73,Scottsboro: An American Tragedy,2001-01-01,0
+Best Director,74,Strange Invaders,2002-01-01,0
+Best Director,75,The Lord of the Rings: The Return of the King,2003-01-01,0
+Best Director,76,Million Dollar Baby,2004-01-01,0
+Best Director,77,Hardwood,2005-01-01,0
+Best Director,78,The Departed,2006-01-01,0
+Best Director,79,No Country for Old Men,2007-01-01,0
+Best Director,80,La Corona,2008-01-01,0
+Best Director,81,The Final Inch,2009-01-01,0
+Best Director,82,Music by Prudence,2010-01-01,0
+Best Director,83,The Artist,2011-01-01,0
+Best Director,84,Saving Face,2012-01-01,0
+Best Director,85,12 Years a Slave,2013-01-01,0
+Best Director,86,Helium,2014-01-01,0
+Best Director,87,Spotlight,2015-01-01,0
+Best Director,88,Moonlight,2016-01-01,0
+Best Director,89,Silent Nights,2017-01-01,0
+Best Director,90,Green Book,2018-01-01,0
+Best Director,91,Parasite,2019-01-01,0
+Best Director,92,Nomadland,2020-01-01,0
+Best Director,93,Judas and the Black Messiah,2021-01-01,0
+Best Director,94,Everything Everywhere All at Once,2022-01-01,0
+Best Director,95,Ivalu,2023-01-01,0
+Best Director,96,Emilia Pérez,2024-01-01,0
+Best Picture,1,The Broadway Melody,1929-01-01,0
+Best Picture,2,All Quiet on the Western Front,1930-01-01,0
+Best Picture,3,Cimarron,1931-01-01,0
+Best Picture,4,Grand Hotel,1932-01-01,0
+Best Picture,5,Cavalcade,1933-01-01,0
+Best Picture,6,It Happened One Night,1934-01-01,0
+Best Picture,7,The Tortoise and the Hare,1935-01-01,0
+Best Picture,8,King of Burlesque,1936-01-01,0
+Best Picture,9,The Life of Emile Zola,1937-01-01,0
+Best Picture,10,In Old Chicago,1938-01-01,0
+Best Picture,11,Pacific Liner,1939-01-01,0
+Best Picture,12,Rebecca,1940-01-01,0
+Best Picture,13,More About Nostradamus,1941-01-01,0
+Best Picture,14,Mrs. Miniver,1942-01-01,0
+Best Picture,15,Der Fuehrer's Face,1943-01-01,0
+Best Picture,16,To the People of the United States,1944-01-01,0
+Best Picture,17,The Lost Weekend,1945-01-01,0
+Best Picture,18,The Best Years of Our Lives,1946-01-01,0
+Best Picture,19,The Cat Concerto,1947-01-01,0
+Best Picture,20,"Goodbye, Miss Turlock",1948-01-01,0
+Best Picture,21,The Little Orphan,1949-01-01,0
+Best Picture,22,Aquatic House Party,1950-01-01,0
+Best Picture,23,An American in Paris,1951-01-01,0
+Best Picture,24,The Two Mouseketeers,1952-01-01,0
+Best Picture,25,Johann Mouse,1953-01-01,0
+Best Picture,26,From A to Z-Z-Z-Z,1954-01-01,0
+Best Picture,27,Marty,1955-01-01,0
+Best Picture,28,Around the World in 80 Days,1956-01-01,0
+Best Picture,29,The Power and the Prize,1957-01-01,0
+Best Picture,30,Gigi,1958-01-01,0
+Best Picture,31,Ben-Hur,1959-01-01,0
+Best Picture,32,The Apartment,1960-01-01,0
+Best Picture,33,West Side Story,1961-01-01,0
+Best Picture,34,Claudelle Inglish,1962-01-01,0
+Best Picture,35,Now Hear This,1963-01-01,0
+Best Picture,36,My Fair Lady,1964-01-01,0
+Best Picture,37,Nudnik #2,1965-01-01,0
+Best Picture,38,Blood on the Land,1966-01-01,0
+Best Picture,39,In the Heat of the Night,1967-01-01,0
+Best Picture,40,Oliver!,1968-01-01,0
+Best Picture,41,The Boys of Paul Street,1969-01-01,0
+Best Picture,42,Other Voices,1970-01-01,0
+Best Picture,43,Say Goodbye,1971-01-01,0
+Best Picture,44,Ra,1972-01-01,0
+Best Picture,45,Manson,1973-01-01,0
+Best Picture,46,Always a New Beginning,1974-01-01,0
+Best Picture,47,One Flew Over the Cuckoo's Nest,1975-01-01,0
+Best Picture,48,Letters from Marusia,1976-01-01,0
+Best Picture,49,Annie Hall,1977-01-01,0
+Best Picture,50,The Deer Hunter,1978-01-01,0
+Best Picture,51,Strange Fruit,1979-01-01,0
+Best Picture,52,Ordinary People,1980-01-01,0
+Best Picture,53,The Dollar Bottom,1981-01-01,0
+Best Picture,54,Gandhi,1982-01-01,0
+Best Picture,55,Terms of Endearment,1983-01-01,0
+Best Picture,56,Amadeus,1984-01-01,0
+Best Picture,57,Beyond the Walls,1985-01-01,0
+Best Picture,58,Unfinished Business,1986-01-01,0
+Best Picture,59,The Last Emperor,1987-01-01,0
+Best Picture,60,Radio Bikini,1988-01-01,0
+Best Picture,61,Driving Miss Daisy,1989-01-01,0
+Best Picture,62,Dances With Wolves,1990-01-01,0
+Best Picture,63,The Silence of the Lambs,1991-01-01,0
+Best Picture,64,The Ox,1992-01-01,0
+Best Picture,65,Schindler's List,1993-01-01,0
+Best Picture,66,Blood Ties: The Life and Work of Sally Mann,1994-01-01,0
+Best Picture,67,Braveheart,1995-01-01,0
+Best Picture,68,Little Surprises,1996-01-01,0
+Best Picture,69,A Chef in Love,1997-01-01,0
+Best Picture,70,Shakespeare in Love,1998-01-01,0
+Best Picture,71,American Beauty,1999-01-01,0
+Best Picture,72,Gladiator,2000-01-01,0
+Best Picture,73,Scottsboro: An American Tragedy,2001-01-01,0
+Best Picture,74,Strange Invaders,2002-01-01,0
+Best Picture,75,The Lord of the Rings: The Return of the King,2003-01-01,0
+Best Picture,76,Million Dollar Baby,2004-01-01,0
+Best Picture,77,Hardwood,2005-01-01,0
+Best Picture,78,The Departed,2006-01-01,0
+Best Picture,79,No Country for Old Men,2007-01-01,0
+Best Picture,80,La Corona,2008-01-01,0
+Best Picture,81,The Final Inch,2009-01-01,0
+Best Picture,82,Music by Prudence,2010-01-01,0
+Best Picture,83,The Artist,2011-01-01,0
+Best Picture,84,Saving Face,2012-01-01,0
+Best Picture,85,12 Years a Slave,2013-01-01,0
+Best Picture,86,Helium,2014-01-01,0
+Best Picture,87,Spotlight,2015-01-01,0
+Best Picture,88,Moonlight,2016-01-01,0
+Best Picture,89,Silent Nights,2017-01-01,0
+Best Picture,90,Green Book,2018-01-01,0
+Best Picture,91,Parasite,2019-01-01,0
+Best Picture,92,Nomadland,2020-01-01,0
+Best Picture,93,Judas and the Black Messiah,2021-01-01,0
+Best Picture,94,Everything Everywhere All at Once,2022-01-01,0
+Best Picture,95,Ivalu,2023-01-01,0
+Best Picture,96,Emilia Pérez,2024-01-01,0
+Best Supporting Actor,1,The Broadway Melody,1929-01-01,0
+Best Supporting Actor,2,All Quiet on the Western Front,1930-01-01,0
+Best Supporting Actor,3,Cimarron,1931-01-01,0
+Best Supporting Actor,4,Grand Hotel,1932-01-01,0
+Best Supporting Actor,5,Cavalcade,1933-01-01,0
+Best Supporting Actor,6,It Happened One Night,1934-01-01,0
+Best Supporting Actor,7,The Tortoise and the Hare,1935-01-01,0
+Best Supporting Actor,8,King of Burlesque,1936-01-01,0
+Best Supporting Actor,9,The Life of Emile Zola,1937-01-01,0
+Best Supporting Actor,10,In Old Chicago,1938-01-01,0
+Best Supporting Actor,11,Pacific Liner,1939-01-01,0
+Best Supporting Actor,12,Rebecca,1940-01-01,0
+Best Supporting Actor,13,More About Nostradamus,1941-01-01,0
+Best Supporting Actor,14,Mrs. Miniver,1942-01-01,0
+Best Supporting Actor,15,Der Fuehrer's Face,1943-01-01,0
+Best Supporting Actor,16,To the People of the United States,1944-01-01,0
+Best Supporting Actor,17,The Lost Weekend,1945-01-01,0
+Best Supporting Actor,18,The Best Years of Our Lives,1946-01-01,0
+Best Supporting Actor,19,The Cat Concerto,1947-01-01,0
+Best Supporting Actor,20,"Goodbye, Miss Turlock",1948-01-01,0
+Best Supporting Actor,21,The Little Orphan,1949-01-01,0
+Best Supporting Actor,22,Aquatic House Party,1950-01-01,0
+Best Supporting Actor,23,An American in Paris,1951-01-01,0
+Best Supporting Actor,24,The Two Mouseketeers,1952-01-01,0
+Best Supporting Actor,25,Johann Mouse,1953-01-01,0
+Best Supporting Actor,26,From A to Z-Z-Z-Z,1954-01-01,0
+Best Supporting Actor,27,Marty,1955-01-01,0
+Best Supporting Actor,28,Around the World in 80 Days,1956-01-01,0
+Best Supporting Actor,29,The Power and the Prize,1957-01-01,0
+Best Supporting Actor,30,Gigi,1958-01-01,0
+Best Supporting Actor,31,Ben-Hur,1959-01-01,0
+Best Supporting Actor,32,The Apartment,1960-01-01,0
+Best Supporting Actor,33,West Side Story,1961-01-01,0
+Best Supporting Actor,34,Claudelle Inglish,1962-01-01,0
+Best Supporting Actor,35,Now Hear This,1963-01-01,0
+Best Supporting Actor,36,My Fair Lady,1964-01-01,0
+Best Supporting Actor,37,Nudnik #2,1965-01-01,0
+Best Supporting Actor,38,Blood on the Land,1966-01-01,0
+Best Supporting Actor,39,In the Heat of the Night,1967-01-01,0
+Best Supporting Actor,40,Oliver!,1968-01-01,0
+Best Supporting Actor,41,The Boys of Paul Street,1969-01-01,0
+Best Supporting Actor,42,Other Voices,1970-01-01,0
+Best Supporting Actor,43,Say Goodbye,1971-01-01,0
+Best Supporting Actor,44,Ra,1972-01-01,0
+Best Supporting Actor,45,Manson,1973-01-01,0
+Best Supporting Actor,46,Always a New Beginning,1974-01-01,0
+Best Supporting Actor,47,One Flew Over the Cuckoo's Nest,1975-01-01,0
+Best Supporting Actor,48,Letters from Marusia,1976-01-01,0
+Best Supporting Actor,49,Annie Hall,1977-01-01,0
+Best Supporting Actor,50,The Deer Hunter,1978-01-01,0
+Best Supporting Actor,51,Strange Fruit,1979-01-01,0
+Best Supporting Actor,52,Ordinary People,1980-01-01,0
+Best Supporting Actor,53,The Dollar Bottom,1981-01-01,0
+Best Supporting Actor,54,Gandhi,1982-01-01,0
+Best Supporting Actor,55,Terms of Endearment,1983-01-01,0
+Best Supporting Actor,56,Amadeus,1984-01-01,0
+Best Supporting Actor,57,Beyond the Walls,1985-01-01,0
+Best Supporting Actor,58,Unfinished Business,1986-01-01,0
+Best Supporting Actor,59,The Last Emperor,1987-01-01,0
+Best Supporting Actor,60,Radio Bikini,1988-01-01,0
+Best Supporting Actor,61,Driving Miss Daisy,1989-01-01,0
+Best Supporting Actor,62,Dances With Wolves,1990-01-01,0
+Best Supporting Actor,63,The Silence of the Lambs,1991-01-01,0
+Best Supporting Actor,64,The Ox,1992-01-01,0
+Best Supporting Actor,65,Schindler's List,1993-01-01,0
+Best Supporting Actor,66,Blood Ties: The Life and Work of Sally Mann,1994-01-01,0
+Best Supporting Actor,67,Braveheart,1995-01-01,0
+Best Supporting Actor,68,Little Surprises,1996-01-01,0
+Best Supporting Actor,69,A Chef in Love,1997-01-01,0
+Best Supporting Actor,70,Shakespeare in Love,1998-01-01,0
+Best Supporting Actor,71,American Beauty,1999-01-01,0
+Best Supporting Actor,72,Gladiator,2000-01-01,0
+Best Supporting Actor,73,Scottsboro: An American Tragedy,2001-01-01,0
+Best Supporting Actor,74,Strange Invaders,2002-01-01,0
+Best Supporting Actor,75,The Lord of the Rings: The Return of the King,2003-01-01,0
+Best Supporting Actor,76,Million Dollar Baby,2004-01-01,0
+Best Supporting Actor,77,Hardwood,2005-01-01,0
+Best Supporting Actor,78,The Departed,2006-01-01,0
+Best Supporting Actor,79,No Country for Old Men,2007-01-01,0
+Best Supporting Actor,80,La Corona,2008-01-01,0
+Best Supporting Actor,81,The Final Inch,2009-01-01,0
+Best Supporting Actor,82,Music by Prudence,2010-01-01,0
+Best Supporting Actor,83,The Artist,2011-01-01,0
+Best Supporting Actor,84,Saving Face,2012-01-01,0
+Best Supporting Actor,85,12 Years a Slave,2013-01-01,0
+Best Supporting Actor,86,Helium,2014-01-01,0
+Best Supporting Actor,87,Spotlight,2015-01-01,0
+Best Supporting Actor,88,Moonlight,2016-01-01,0
+Best Supporting Actor,89,Silent Nights,2017-01-01,0
+Best Supporting Actor,90,Green Book,2018-01-01,0
+Best Supporting Actor,91,Parasite,2019-01-01,0
+Best Supporting Actor,92,Nomadland,2020-01-01,0
+Best Supporting Actor,93,Judas and the Black Messiah,2021-01-01,0
+Best Supporting Actor,94,Everything Everywhere All at Once,2022-01-01,0
+Best Supporting Actor,95,Ivalu,2023-01-01,0
+Best Supporting Actor,96,Emilia Pérez,2024-01-01,0
+Best Supporting Actress,1,The Broadway Melody,1929-01-01,0
+Best Supporting Actress,2,All Quiet on the Western Front,1930-01-01,0
+Best Supporting Actress,3,Cimarron,1931-01-01,0
+Best Supporting Actress,4,Grand Hotel,1932-01-01,0
+Best Supporting Actress,5,Cavalcade,1933-01-01,0
+Best Supporting Actress,6,It Happened One Night,1934-01-01,0
+Best Supporting Actress,7,The Tortoise and the Hare,1935-01-01,0
+Best Supporting Actress,8,King of Burlesque,1936-01-01,0
+Best Supporting Actress,9,The Life of Emile Zola,1937-01-01,0
+Best Supporting Actress,10,In Old Chicago,1938-01-01,0
+Best Supporting Actress,11,Pacific Liner,1939-01-01,0
+Best Supporting Actress,12,Rebecca,1940-01-01,0
+Best Supporting Actress,13,More About Nostradamus,1941-01-01,0
+Best Supporting Actress,14,Mrs. Miniver,1942-01-01,0
+Best Supporting Actress,15,Der Fuehrer's Face,1943-01-01,0
+Best Supporting Actress,16,To the People of the United States,1944-01-01,0
+Best Supporting Actress,17,The Lost Weekend,1945-01-01,0
+Best Supporting Actress,18,The Best Years of Our Lives,1946-01-01,0
+Best Supporting Actress,19,The Cat Concerto,1947-01-01,0
+Best Supporting Actress,20,"Goodbye, Miss Turlock",1948-01-01,0
+Best Supporting Actress,21,The Little Orphan,1949-01-01,0
+Best Supporting Actress,22,Aquatic House Party,1950-01-01,0
+Best Supporting Actress,23,An American in Paris,1951-01-01,0
+Best Supporting Actress,24,The Two Mouseketeers,1952-01-01,0
+Best Supporting Actress,25,Johann Mouse,1953-01-01,0
+Best Supporting Actress,26,From A to Z-Z-Z-Z,1954-01-01,0
+Best Supporting Actress,27,Marty,1955-01-01,0
+Best Supporting Actress,28,Around the World in 80 Days,1956-01-01,0
+Best Supporting Actress,29,The Power and the Prize,1957-01-01,0
+Best Supporting Actress,30,Gigi,1958-01-01,0
+Best Supporting Actress,31,Ben-Hur,1959-01-01,0
+Best Supporting Actress,32,The Apartment,1960-01-01,0
+Best Supporting Actress,33,West Side Story,1961-01-01,0
+Best Supporting Actress,34,Claudelle Inglish,1962-01-01,0
+Best Supporting Actress,35,Now Hear This,1963-01-01,0
+Best Supporting Actress,36,My Fair Lady,1964-01-01,0
+Best Supporting Actress,37,Nudnik #2,1965-01-01,0
+Best Supporting Actress,38,Blood on the Land,1966-01-01,0
+Best Supporting Actress,39,In the Heat of the Night,1967-01-01,0
+Best Supporting Actress,40,Oliver!,1968-01-01,0
+Best Supporting Actress,41,The Boys of Paul Street,1969-01-01,0
+Best Supporting Actress,42,Other Voices,1970-01-01,0
+Best Supporting Actress,43,Say Goodbye,1971-01-01,0
+Best Supporting Actress,44,Ra,1972-01-01,0
+Best Supporting Actress,45,Manson,1973-01-01,0
+Best Supporting Actress,46,Always a New Beginning,1974-01-01,0
+Best Supporting Actress,47,One Flew Over the Cuckoo's Nest,1975-01-01,0
+Best Supporting Actress,48,Letters from Marusia,1976-01-01,0
+Best Supporting Actress,49,Annie Hall,1977-01-01,0
+Best Supporting Actress,50,The Deer Hunter,1978-01-01,0
+Best Supporting Actress,51,Strange Fruit,1979-01-01,0
+Best Supporting Actress,52,Ordinary People,1980-01-01,0
+Best Supporting Actress,53,The Dollar Bottom,1981-01-01,0
+Best Supporting Actress,54,Gandhi,1982-01-01,0
+Best Supporting Actress,55,Terms of Endearment,1983-01-01,0
+Best Supporting Actress,56,Amadeus,1984-01-01,0
+Best Supporting Actress,57,Beyond the Walls,1985-01-01,0
+Best Supporting Actress,58,Unfinished Business,1986-01-01,0
+Best Supporting Actress,59,The Last Emperor,1987-01-01,0
+Best Supporting Actress,60,Radio Bikini,1988-01-01,0
+Best Supporting Actress,61,Driving Miss Daisy,1989-01-01,0
+Best Supporting Actress,62,Dances With Wolves,1990-01-01,0
+Best Supporting Actress,63,The Silence of the Lambs,1991-01-01,0
+Best Supporting Actress,64,The Ox,1992-01-01,0
+Best Supporting Actress,65,Schindler's List,1993-01-01,0
+Best Supporting Actress,66,Blood Ties: The Life and Work of Sally Mann,1994-01-01,0
+Best Supporting Actress,67,Braveheart,1995-01-01,0
+Best Supporting Actress,68,Little Surprises,1996-01-01,0
+Best Supporting Actress,69,A Chef in Love,1997-01-01,0
+Best Supporting Actress,70,Shakespeare in Love,1998-01-01,0
+Best Supporting Actress,71,American Beauty,1999-01-01,0
+Best Supporting Actress,72,Gladiator,2000-01-01,0
+Best Supporting Actress,73,Scottsboro: An American Tragedy,2001-01-01,0
+Best Supporting Actress,74,Strange Invaders,2002-01-01,0
+Best Supporting Actress,75,The Lord of the Rings: The Return of the King,2003-01-01,0
+Best Supporting Actress,76,Million Dollar Baby,2004-01-01,0
+Best Supporting Actress,77,Hardwood,2005-01-01,0
+Best Supporting Actress,78,The Departed,2006-01-01,0
+Best Supporting Actress,79,No Country for Old Men,2007-01-01,0
+Best Supporting Actress,80,La Corona,2008-01-01,0
+Best Supporting Actress,81,The Final Inch,2009-01-01,0
+Best Supporting Actress,82,Music by Prudence,2010-01-01,0
+Best Supporting Actress,83,The Artist,2011-01-01,0
+Best Supporting Actress,84,Saving Face,2012-01-01,0
+Best Supporting Actress,85,12 Years a Slave,2013-01-01,0
+Best Supporting Actress,86,Helium,2014-01-01,0
+Best Supporting Actress,87,Spotlight,2015-01-01,0
+Best Supporting Actress,88,Moonlight,2016-01-01,0
+Best Supporting Actress,89,Silent Nights,2017-01-01,0
+Best Supporting Actress,90,Green Book,2018-01-01,0
+Best Supporting Actress,91,Parasite,2019-01-01,0
+Best Supporting Actress,92,Nomadland,2020-01-01,0
+Best Supporting Actress,93,Judas and the Black Messiah,2021-01-01,0
+Best Supporting Actress,94,Everything Everywhere All at Once,2022-01-01,0
+Best Supporting Actress,95,Ivalu,2023-01-01,0
+Best Supporting Actress,96,Emilia Pérez,2024-01-01,0
